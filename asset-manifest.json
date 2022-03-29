@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfoli.github.io/static/css/main.46ec5f36.css",
+    "main.js": "/portfoli.github.io/static/js/main.0a83bb86.js",
+    "static/media/me.png": "/portfoli.github.io/static/media/me.c02c90ff489203e50c2a.png",
+    "static/media/my_portfolio2.jpg": "/portfoli.github.io/static/media/my_portfolio2.e9e495312a39a27566eb.jpg",
+    "static/media/me_about.jpg": "/portfoli.github.io/static/media/me_about.6fbfe3e0772613333269.jpg",
+    "static/media/my_portfolio1.jpg": "/portfoli.github.io/static/media/my_portfolio1.e0dade489b7250e5646f.jpg",
+    "static/media/my_portfolio3.jpg": "/portfoli.github.io/static/media/my_portfolio3.2b92700408d5bd2ad19d.jpg",
+    "static/media/cv.pdf": "/portfoli.github.io/static/media/cv.c5ba1e46928f3023d79b.pdf",
+    "index.html": "/portfoli.github.io/index.html",
+    "main.46ec5f36.css.map": "/portfoli.github.io/static/css/main.46ec5f36.css.map",
+    "main.0a83bb86.js.map": "/portfoli.github.io/static/js/main.0a83bb86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46ec5f36.css",
+    "static/js/main.0a83bb86.js"
+  ]
+}
